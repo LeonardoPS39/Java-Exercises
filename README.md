@@ -2,7 +2,7 @@
 
 <h3>Uma lista de exercícios de Java da matéria de Programação orientada a objeto onde foram escolhidas 3 questões para a resolução.</h3>
 
-<italic><p>Questões:</p>
+<i><p>Questões:</p>
 <p>3 - Escreva uma classe “Retângulo”, com os seguintes atributos: Base; Altura.<br>
 a. Inicialize os dados com um valor fixo. <br>
 b. Crie um método para solicitar os dados para o usuário.<br>
@@ -32,4 +32,4 @@ fórmulas de conversão abaixo:<br>
 • De graus Réaumur (Re) para graus Celsius (C): C = Re ∗ 5/4<br>
 • De graus Kelvin (K) para graus Rankine (R): R = K ∗ 1.8<br>
 • De graus Rankine (R) para graus Kelvin (K): K = R/1.8<br>
-Desenvolva	um	programa principal que pergunte ao usuário qual tipo de conversão ele deseja fazer e posteriormente solicite qual o valor de entrada deve ser convertido. Após imprimir o resultado o programa deve perguntar se o usuário deseja sair ou continuar utilizando o programa.</p></italic>
+Desenvolva	um	programa principal que pergunte ao usuário qual tipo de conversão ele deseja fazer e posteriormente solicite qual o valor de entrada deve ser convertido. Após imprimir o resultado o programa deve perguntar se o usuário deseja sair ou continuar utilizando o programa.</p></i>
