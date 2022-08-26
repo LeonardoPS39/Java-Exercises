@@ -33,3 +33,5 @@ fórmulas de conversão abaixo:<br>
 • De graus Kelvin (K) para graus Rankine (R): R = K ∗ 1.8<br>
 • De graus Rankine (R) para graus Kelvin (K): K = R/1.8<br>
 Desenvolva	um	programa principal que pergunte ao usuário qual tipo de conversão ele deseja fazer e posteriormente solicite qual o valor de entrada deve ser convertido. Após imprimir o resultado o programa deve perguntar se o usuário deseja sair ou continuar utilizando o programa.</p></i>
+
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
