@@ -1,4 +1,4 @@
-# Java-Exercises <img src="[https://www.vectorlogo.zone/logos/java/java-ar21.svg](https://www.vectorlogo.zone/logos/java/java-icon.svg)">
+# Java-Exercises <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 
 <h3>Uma lista de exercícios de Java da matéria de Programação orientada a objeto onde foram escolhidas 3 questões para a resolução.</h3>
 
